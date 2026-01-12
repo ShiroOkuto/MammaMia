@@ -1,5 +1,12 @@
-# static.py
-
+HTML = """
+I can remember when we walked together
+Sharing a love I thought would last forever
+Moonlight to show the way so we
+Can follow
+Waiting inside her eyes was my tomorrow
+Then something changed her mind, her kisses told me
+I had no loving arms to hold me
+"""
 HTML = """
 <!DOCTYPE html>
 <html>
